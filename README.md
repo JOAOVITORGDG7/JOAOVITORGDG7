@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o João Vitor
 
-<!--
-**JOAOVITORGDG7/JOAOVITORGDG7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Estudante de programação com foco em Inteligência Artificial  
+🚀 Iniciando a jornada no mundo do Python, dados e automações  
+📘 Buscando crescimento diário e evolução constante  
+📍 Curitiba - PR
 
-Here are some ideas to get you started:
+## 🚧 Em construção...
+Aqui você vai encontrar meus projetos, estudos e aprendizados enquanto caminho na transição de carreira pro universo tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Portfólio (em breve)
+- Calculadora de Idade [🚧 Em desenvolvimento]
+- Projetos com dados [🔒 Em planejamento]
+
+### 📫 Contato
+- Email: joaovitorgdg77@gmail.com
+- WhatsApp: (coloca se quiser)
+- LinkedIn: (se tiver, me fala que te ajudo a deixar top)
+
+---
+
+**Vamo pra cima! Cada linha de código é um degrau a mais pro topo.** 💻🔥
